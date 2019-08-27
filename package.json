@@ -1,0 +1,14 @@
+{
+  "name": "Angular-SEO-Prerender",
+  "description": "...",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "latest",
+    "path": "^0.12.7",
+    "prerender-node": "latest"
+  },
+  "scripts": {
+    "postinstall": "node server.js"
+  }
+}
